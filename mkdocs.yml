@@ -39,9 +39,9 @@ theme:
     # - navigation.expand
     # - navigation.tabs.sticky
     - toc.follow
-    - search.suggest
-    - search.highligt
-    - search.share
+    # - search.suggest
+    # - search.highligt
+    # - search.share
     - content.tabs.link
     - content.code.annotatioin
     - content.code.copy
@@ -101,7 +101,7 @@ plugins:
       type: date
       timezone: Europe/Amsterdam
       locale: nl
-  - search
+
 
 
 
