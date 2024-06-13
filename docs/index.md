@@ -12,7 +12,7 @@ Welkom
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Matthew Henry__
+-   :flag_gb:{ .lg .middle } __Matthew Henry__
 
     ---
 
@@ -24,7 +24,7 @@ Welkom
 
     [:octicons-arrow-right-24: Bijbelverklaring](https://matthewhenry.online)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Karl August Dächsel__
+-   :flag_de:{ .lg .middle } __Karl August Dächsel__
 
     ---
 
