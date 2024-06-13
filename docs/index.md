@@ -4,10 +4,7 @@ hide:
   - navigation
 ---
 
-# De volledige bijbelverklaringen van Matthew Henry en Karl August Dachsel online
-
-Welkom 
-
+# Bijbelverklaringen van Matthew Henry en Karl August Dachsel
 
 
 <div class="grid cards" markdown>
@@ -35,7 +32,6 @@ Welkom
     Zijn Bijbelverklaring schreef hij in zeven delen tussen 1862 en 1880. Als opzet koos hij voor een doorlopende parafrase. De Bijbelverklaring wordt nog altijd gebruikt, onder meer binnen bevindelijk gereformeerde kringen in Nederland.
 
     [:octicons-arrow-right-24: Bijbelverklaring](#)
-
 
 
 </div>
