@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 ---
 
 # De volledige bijbelverklaringèn van Matthew Henry en Karl August Dachsel online
