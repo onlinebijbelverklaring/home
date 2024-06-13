@@ -46,7 +46,7 @@ theme:
     - content.code.annotatioin
     - content.code.copy
     - content.tooltips
-    - content.action.edit
+    # - content.action.edit
     # - content.footnote.tooltips
     # - content.code.select
   language: nl
@@ -96,7 +96,7 @@ markdown_extensions:
 
 # Plugins
 plugins:
-  - git-revision-date-localized:
+  # - git-revision-date-localized:
       enable_creation_date: true
       type: date
       timezone: Europe/Amsterdam
