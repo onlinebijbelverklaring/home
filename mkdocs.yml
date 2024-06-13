@@ -96,7 +96,7 @@ markdown_extensions:
 
 # Plugins
 plugins:
-  # - git-revision-date-localized:
+  - git-revision-date-localized:
       enable_creation_date: true
       type: date
       timezone: Europe/Amsterdam
