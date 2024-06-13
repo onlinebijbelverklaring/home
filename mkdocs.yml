@@ -94,13 +94,6 @@ markdown_extensions:
   - toc:
       permalink: true
 
-# Plugins
-plugins:
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: date
-      timezone: Europe/Amsterdam
-      locale: nl
 
 
 
