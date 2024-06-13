@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# De volledige bijbelverklaringèn van Matthew Henry en Karl August Dachsel online
+# De volledige bijbelverklaringen van Matthew Henry en Karl August Dachsel online
 
 Welkom 
 

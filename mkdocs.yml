@@ -68,9 +68,6 @@ theme:
         icon: material/weather-sunny
         name: Lichte modus
 
-
-
-
 # Additional configuration
 extra:
    analytics:
@@ -93,7 +90,6 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-
 
 
 
