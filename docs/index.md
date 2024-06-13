@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Bijbelverklaringen van Matthew Henry en Karl August Dachsel
+# Bijbelverklaringen van Matthew Henry en Karl August Dächsel
 
 
 <div class="grid cards" markdown>
